@@ -1,0 +1,270 @@
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+[32m :: Spring Boot :: [39m              [2m (v3.2.0)[0;39m
+
+[2m2025-07-13T19:37:07.755+05:30[0;39m [32m INFO[0;39m [35m36112[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [2m[0;39m[36mcom.kisankart.KisanKartApplication      [0;39m [2m:[0;39m Starting KisanKartApplication using Java 17.0.10 with PID 36112 (D:\KisanKart_WorkSpace\KisanKart\target\classes started by tejas in D:\KisanKart_WorkSpace\KisanKart)
+[2m2025-07-13T19:37:07.760+05:30[0;39m [32mDEBUG[0;39m [35m36112[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [2m[0;39m[36mcom.kisankart.KisanKartApplication      [0;39m [2m:[0;39m Running with Spring Boot v3.2.0, Spring v6.1.1
+[2m2025-07-13T19:37:07.761+05:30[0;39m [32m INFO[0;39m [35m36112[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [2m[0;39m[36mcom.kisankart.KisanKartApplication      [0;39m [2m:[0;39m No active profile set, falling back to 1 default profile: "default"
+[2m2025-07-13T19:37:07.846+05:30[0;39m [32m INFO[0;39m [35m36112[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [2m[0;39m[36m.e.DevToolsPropertyDefaultsPostProcessor[0;39m [2m:[0;39m Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[2m2025-07-13T19:37:07.847+05:30[0;39m [32m INFO[0;39m [35m36112[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [2m[0;39m[36m.e.DevToolsPropertyDefaultsPostProcessor[0;39m [2m:[0;39m For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[2m2025-07-13T19:37:08.991+05:30[0;39m [32m INFO[0;39m [35m36112[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [2m[0;39m[36m.s.d.r.c.RepositoryConfigurationDelegate[0;39m [2m:[0;39m Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[2m2025-07-13T19:37:09.101+05:30[0;39m [32m INFO[0;39m [35m36112[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [2m[0;39m[36m.s.d.r.c.RepositoryConfigurationDelegate[0;39m [2m:[0;39m Finished Spring Data repository scanning in 97 ms. Found 6 JPA repository interfaces.
+[2m2025-07-13T19:37:10.129+05:30[0;39m [32m INFO[0;39m [35m36112[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [2m[0;39m[36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port 8080 (http)
+[2m2025-07-13T19:37:10.146+05:30[0;39m [32m INFO[0;39m [35m36112[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [2m[0;39m[36mo.apache.catalina.core.StandardService  [0;39m [2m:[0;39m Starting service [Tomcat]
+[2m2025-07-13T19:37:10.146+05:30[0;39m [32m INFO[0;39m [35m36112[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [2m[0;39m[36mo.apache.catalina.core.StandardEngine   [0;39m [2m:[0;39m Starting Servlet engine: [Apache Tomcat/10.1.16]
+[2m2025-07-13T19:37:10.268+05:30[0;39m [32m INFO[0;39m [35m36112[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [2m[0;39m[36mo.a.c.c.C.[Tomcat].[localhost].[/]      [0;39m [2m:[0;39m Initializing Spring embedded WebApplicationContext
+[2m2025-07-13T19:37:10.269+05:30[0;39m [32m INFO[0;39m [35m36112[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [2m[0;39m[36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 2421 ms
+[2m2025-07-13T19:37:10.535+05:30[0;39m [32m INFO[0;39m [35m36112[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [2m[0;39m[36mo.hibernate.jpa.internal.util.LogHelper [0;39m [2m:[0;39m HHH000204: Processing PersistenceUnitInfo [name: default]
+[2m2025-07-13T19:37:10.671+05:30[0;39m [32m INFO[0;39m [35m36112[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [2m[0;39m[36morg.hibernate.Version                   [0;39m [2m:[0;39m HHH000412: Hibernate ORM core version 6.3.1.Final
+[2m2025-07-13T19:37:10.754+05:30[0;39m [32m INFO[0;39m [35m36112[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [2m[0;39m[36mo.h.c.internal.RegionFactoryInitiator   [0;39m [2m:[0;39m HHH000026: Second-level cache disabled
+[2m2025-07-13T19:37:11.224+05:30[0;39m [32m INFO[0;39m [35m36112[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [2m[0;39m[36mo.s.o.j.p.SpringPersistenceUnitInfo     [0;39m [2m:[0;39m No LoadTimeWeaver setup: ignoring JPA class transformer
+[2m2025-07-13T19:37:11.276+05:30[0;39m [32m INFO[0;39m [35m36112[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [2m[0;39m[36mcom.zaxxer.hikari.HikariDataSource      [0;39m [2m:[0;39m HikariPool-1 - Starting...
+[2m2025-07-13T19:37:11.526+05:30[0;39m [32m INFO[0;39m [35m36112[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [2m[0;39m[36mcom.zaxxer.hikari.pool.HikariPool       [0;39m [2m:[0;39m HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@53f9eb33
+[2m2025-07-13T19:37:11.531+05:30[0;39m [32m INFO[0;39m [35m36112[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [2m[0;39m[36mcom.zaxxer.hikari.HikariDataSource      [0;39m [2m:[0;39m HikariPool-1 - Start completed.
+[2m2025-07-13T19:37:11.629+05:30[0;39m [33m WARN[0;39m [35m36112[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [2m[0;39m[36morg.hibernate.orm.deprecation           [0;39m [2m:[0;39m HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2m2025-07-13T19:37:13.253+05:30[0;39m [32m INFO[0;39m [35m36112[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [2m[0;39m[36mo.h.e.t.j.p.i.JtaPlatformInitiator      [0;39m [2m:[0;39m HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2m2025-07-13T19:37:13.397+05:30[0;39m [32mDEBUG[0;39m [35m36112[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [2m[0;39m[36morg.hibernate.SQL                       [0;39m [2m:[0;39m 
+    create table cart_items (
+        id bigint not null auto_increment,
+        created_at datetime(6),
+        quantity integer not null,
+        updated_at datetime(6),
+        customer_id bigint not null,
+        product_id bigint not null,
+        primary key (id)
+    ) engine=InnoDB
+Hibernate: 
+    create table cart_items (
+        id bigint not null auto_increment,
+        created_at datetime(6),
+        quantity integer not null,
+        updated_at datetime(6),
+        customer_id bigint not null,
+        product_id bigint not null,
+        primary key (id)
+    ) engine=InnoDB
+[2m2025-07-13T19:37:13.471+05:30[0;39m [32mDEBUG[0;39m [35m36112[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [2m[0;39m[36morg.hibernate.SQL                       [0;39m [2m:[0;39m 
+    create table contacts (
+        id bigint not null auto_increment,
+        created_at datetime(6),
+        email varchar(255) not null,
+        message TEXT not null,
+        name varchar(255) not null,
+        phone varchar(255),
+        status enum ('NEW','IN_PROGRESS','RESOLVED','CLOSED') not null,
+        subject varchar(255) not null,
+        updated_at datetime(6),
+        primary key (id)
+    ) engine=InnoDB
+Hibernate: 
+    create table contacts (
+        id bigint not null auto_increment,
+        created_at datetime(6),
+        email varchar(255) not null,
+        message TEXT not null,
+        name varchar(255) not null,
+        phone varchar(255),
+        status enum ('NEW','IN_PROGRESS','RESOLVED','CLOSED') not null,
+        subject varchar(255) not null,
+        updated_at datetime(6),
+        primary key (id)
+    ) engine=InnoDB
+[2m2025-07-13T19:37:13.499+05:30[0;39m [32mDEBUG[0;39m [35m36112[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [2m[0;39m[36morg.hibernate.SQL                       [0;39m [2m:[0;39m 
+    create table order_items (
+        id bigint not null auto_increment,
+        price decimal(12,2) not null,
+        quantity integer not null,
+        order_id bigint not null,
+        product_id bigint not null,
+        primary key (id)
+    ) engine=InnoDB
+Hibernate: 
+    create table order_items (
+        id bigint not null auto_increment,
+        price decimal(12,2) not null,
+        quantity integer not null,
+        order_id bigint not null,
+        product_id bigint not null,
+        primary key (id)
+    ) engine=InnoDB
+[2m2025-07-13T19:37:13.529+05:30[0;39m [32mDEBUG[0;39m [35m36112[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [2m[0;39m[36morg.hibernate.SQL                       [0;39m [2m:[0;39m 
+    create table orders (
+        id bigint not null auto_increment,
+        created_at datetime(6),
+        delivery_address TEXT not null,
+        order_number varchar(255) not null,
+        payment_method enum ('CASH_ON_DELIVERY','ONLINE_PAYMENT','UPI','CARD') not null,
+        order_status enum ('PENDING','CONFIRMED','PROCESSING','SHIPPED','DELIVERED','CANCELLED') not null,
+        total_amount decimal(12,2) not null,
+        updated_at datetime(6),
+        customer_id bigint not null,
+        primary key (id)
+    ) engine=InnoDB
+Hibernate: 
+    create table orders (
+        id bigint not null auto_increment,
+        created_at datetime(6),
+        delivery_address TEXT not null,
+        order_number varchar(255) not null,
+        payment_method enum ('CASH_ON_DELIVERY','ONLINE_PAYMENT','UPI','CARD') not null,
+        order_status enum ('PENDING','CONFIRMED','PROCESSING','SHIPPED','DELIVERED','CANCELLED') not null,
+        total_amount decimal(12,2) not null,
+        updated_at datetime(6),
+        customer_id bigint not null,
+        primary key (id)
+    ) engine=InnoDB
+[2m2025-07-13T19:37:13.557+05:30[0;39m [32mDEBUG[0;39m [35m36112[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [2m[0;39m[36morg.hibernate.SQL                       [0;39m [2m:[0;39m 
+    create table products (
+        id bigint not null auto_increment,
+        category enum ('VEGETABLES','FRUITS','GRAINS','DAIRY','SPICES','HERBS','ORGANIC','OTHERS') not null,
+        created_at datetime(6),
+        description TEXT,
+        image_url varchar(255),
+        name varchar(255) not null,
+        price decimal(12,2) not null,
+        stock integer not null,
+        unit varchar(255) not null,
+        updated_at datetime(6),
+        farmer_id bigint not null,
+        primary key (id)
+    ) engine=InnoDB
+Hibernate: 
+    create table products (
+        id bigint not null auto_increment,
+        category enum ('VEGETABLES','FRUITS','GRAINS','DAIRY','SPICES','HERBS','ORGANIC','OTHERS') not null,
+        created_at datetime(6),
+        description TEXT,
+        image_url varchar(255),
+        name varchar(255) not null,
+        price decimal(12,2) not null,
+        stock integer not null,
+        unit varchar(255) not null,
+        updated_at datetime(6),
+        farmer_id bigint not null,
+        primary key (id)
+    ) engine=InnoDB
+[2m2025-07-13T19:37:13.587+05:30[0;39m [32mDEBUG[0;39m [35m36112[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [2m[0;39m[36morg.hibernate.SQL                       [0;39m [2m:[0;39m 
+    create table users (
+        id bigint not null auto_increment,
+        address varchar(255),
+        created_at datetime(6),
+        email varchar(255) not null,
+        name varchar(255) not null,
+        password varchar(255) not null,
+        phone varchar(255),
+        status enum ('ACTIVE','INACTIVE','SUSPENDED') not null,
+        updated_at datetime(6),
+        user_type enum ('ADMIN','FARMER','CUSTOMER') not null,
+        primary key (id)
+    ) engine=InnoDB
+Hibernate: 
+    create table users (
+        id bigint not null auto_increment,
+        address varchar(255),
+        created_at datetime(6),
+        email varchar(255) not null,
+        name varchar(255) not null,
+        password varchar(255) not null,
+        phone varchar(255),
+        status enum ('ACTIVE','INACTIVE','SUSPENDED') not null,
+        updated_at datetime(6),
+        user_type enum ('ADMIN','FARMER','CUSTOMER') not null,
+        primary key (id)
+    ) engine=InnoDB
+[2m2025-07-13T19:37:13.612+05:30[0;39m [32mDEBUG[0;39m [35m36112[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [2m[0;39m[36morg.hibernate.SQL                       [0;39m [2m:[0;39m 
+    alter table orders 
+       drop index UK_nthkiu7pgmnqnu86i2jyoe2v7
+Hibernate: 
+    alter table orders 
+       drop index UK_nthkiu7pgmnqnu86i2jyoe2v7
+[2m2025-07-13T19:37:13.647+05:30[0;39m [32mDEBUG[0;39m [35m36112[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [2m[0;39m[36morg.hibernate.SQL                       [0;39m [2m:[0;39m 
+    alter table orders 
+       add constraint UK_nthkiu7pgmnqnu86i2jyoe2v7 unique (order_number)
+Hibernate: 
+    alter table orders 
+       add constraint UK_nthkiu7pgmnqnu86i2jyoe2v7 unique (order_number)
+[2m2025-07-13T19:37:13.680+05:30[0;39m [32mDEBUG[0;39m [35m36112[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [2m[0;39m[36morg.hibernate.SQL                       [0;39m [2m:[0;39m 
+    alter table users 
+       drop index UK_6dotkott2kjsp8vw4d0m25fb7
+Hibernate: 
+    alter table users 
+       drop index UK_6dotkott2kjsp8vw4d0m25fb7
+[2m2025-07-13T19:37:13.685+05:30[0;39m [32mDEBUG[0;39m [35m36112[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [2m[0;39m[36morg.hibernate.SQL                       [0;39m [2m:[0;39m 
+    alter table users 
+       add constraint UK_6dotkott2kjsp8vw4d0m25fb7 unique (email)
+Hibernate: 
+    alter table users 
+       add constraint UK_6dotkott2kjsp8vw4d0m25fb7 unique (email)
+[2m2025-07-13T19:37:13.708+05:30[0;39m [32mDEBUG[0;39m [35m36112[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [2m[0;39m[36morg.hibernate.SQL                       [0;39m [2m:[0;39m 
+    alter table cart_items 
+       add constraint FKstvfmrq4hk9go8cd0yq27kcqk 
+       foreign key (customer_id) 
+       references users (id)
+Hibernate: 
+    alter table cart_items 
+       add constraint FKstvfmrq4hk9go8cd0yq27kcqk 
+       foreign key (customer_id) 
+       references users (id)
+[2m2025-07-13T19:37:13.791+05:30[0;39m [32mDEBUG[0;39m [35m36112[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [2m[0;39m[36morg.hibernate.SQL                       [0;39m [2m:[0;39m 
+    alter table cart_items 
+       add constraint FK1re40cjegsfvw58xrkdp6bac6 
+       foreign key (product_id) 
+       references products (id)
+Hibernate: 
+    alter table cart_items 
+       add constraint FK1re40cjegsfvw58xrkdp6bac6 
+       foreign key (product_id) 
+       references products (id)
+[2m2025-07-13T19:37:13.865+05:30[0;39m [32mDEBUG[0;39m [35m36112[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [2m[0;39m[36morg.hibernate.SQL                       [0;39m [2m:[0;39m 
+    alter table order_items 
+       add constraint FKbioxgbv59vetrxe0ejfubep1w 
+       foreign key (order_id) 
+       references orders (id)
+Hibernate: 
+    alter table order_items 
+       add constraint FKbioxgbv59vetrxe0ejfubep1w 
+       foreign key (order_id) 
+       references orders (id)
+[2m2025-07-13T19:37:13.936+05:30[0;39m [32mDEBUG[0;39m [35m36112[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [2m[0;39m[36morg.hibernate.SQL                       [0;39m [2m:[0;39m 
+    alter table order_items 
+       add constraint FKocimc7dtr037rh4ls4l95nlfi 
+       foreign key (product_id) 
+       references products (id)
+Hibernate: 
+    alter table order_items 
+       add constraint FKocimc7dtr037rh4ls4l95nlfi 
+       foreign key (product_id) 
+       references products (id)
+[2m2025-07-13T19:37:14.014+05:30[0;39m [32mDEBUG[0;39m [35m36112[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [2m[0;39m[36morg.hibernate.SQL                       [0;39m [2m:[0;39m 
+    alter table orders 
+       add constraint FKsjfs85qf6vmcurlx43cnc16gy 
+       foreign key (customer_id) 
+       references users (id)
+Hibernate: 
+    alter table orders 
+       add constraint FKsjfs85qf6vmcurlx43cnc16gy 
+       foreign key (customer_id) 
+       references users (id)
+[2m2025-07-13T19:37:14.096+05:30[0;39m [32mDEBUG[0;39m [35m36112[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [2m[0;39m[36morg.hibernate.SQL                       [0;39m [2m:[0;39m 
+    alter table products 
+       add constraint FKrh8ldn7kusub8s0oraf2dh4sj 
+       foreign key (farmer_id) 
+       references users (id)
+Hibernate: 
+    alter table products 
+       add constraint FKrh8ldn7kusub8s0oraf2dh4sj 
+       foreign key (farmer_id) 
+       references users (id)
+[2m2025-07-13T19:37:14.182+05:30[0;39m [32m INFO[0;39m [35m36112[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [2m[0;39m[36mj.LocalContainerEntityManagerFactoryBean[0;39m [2m:[0;39m Initialized JPA EntityManagerFactory for persistence unit 'default'
+[2m2025-07-13T19:37:14.790+05:30[0;39m [32m INFO[0;39m [35m36112[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [2m[0;39m[36mo.s.d.j.r.query.QueryEnhancerFactory    [0;39m [2m:[0;39m Hibernate is in classpath; If applicable, HQL parser will be used.
+[2m2025-07-13T19:37:15.920+05:30[0;39m [33m WARN[0;39m [35m36112[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [2m[0;39m[36mJpaBaseConfiguration$JpaWebConfiguration[0;39m [2m:[0;39m spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[2m2025-07-13T19:37:16.158+05:30[0;39m [32m INFO[0;39m [35m36112[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [2m[0;39m[36mo.s.b.a.w.s.WelcomePageHandlerMapping   [0;39m [2m:[0;39m Adding welcome page template: index
+[2m2025-07-13T19:37:16.587+05:30[0;39m [32m INFO[0;39m [35m36112[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [2m[0;39m[36mo.s.s.web.DefaultSecurityFilterChain    [0;39m [2m:[0;39m Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@7ec62b4c, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@50793de1, org.springframework.security.web.context.SecurityContextHolderFilter@10400d51, org.springframework.security.web.header.HeaderWriterFilter@29ed3290, org.springframework.web.filter.CorsFilter@3d9c1bc4, org.springframework.security.web.csrf.CsrfFilter@4711f85e, org.springframework.security.web.authentication.logout.LogoutFilter@308d1450, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@4aef6867, org.springframework.security.web.session.ConcurrentSessionFilter@e650c9f, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@16c70035, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@442ae096, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@2ca2edb9, org.springframework.security.web.session.SessionManagementFilter@450f217d, org.springframework.security.web.access.ExceptionTranslationFilter@4c4fa09f, org.springframework.security.web.access.intercept.AuthorizationFilter@44940073]
+[2m2025-07-13T19:37:17.082+05:30[0;39m [32m INFO[0;39m [35m36112[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [2m[0;39m[36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2025-07-13T19:37:17.155+05:30[0;39m [32m INFO[0;39m [35m36112[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [2m[0;39m[36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port 8080 (http) with context path ''
+[2m2025-07-13T19:37:17.166+05:30[0;39m [32m INFO[0;39m [35m36112[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [2m[0;39m[36mcom.kisankart.KisanKartApplication      [0;39m [2m:[0;39m Started KisanKartApplication in 9.996 seconds (process running for 11.308)
